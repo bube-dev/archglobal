@@ -60,14 +60,14 @@
                     </div>
                 </div>
                 <div class="navbar-nav w-100">
-                    <a href="index.html" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
+                    <a href="index.php" class="nav-item nav-link active"><i class="fa fa-tachometer-alt me-2"></i>Dashboard</a>
                 
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>KYC</a>
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Deposit History</a>
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Withdrawal</a>
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>My Referrals</a>
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Settings</a>
-                    <a href="index.html" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Logout</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-table me-2"></i>KYC</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Deposit History</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-chart-bar me-2"></i>Withdrawal</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-table me-2"></i>My Referrals</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-table me-2"></i>Settings</a>
+                    <a href="index.php" class="nav-item nav-link"><i class="fa fa-th me-2"></i>Logout</a>
                     
                 </div>
             </nav>
