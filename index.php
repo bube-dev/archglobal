@@ -46,7 +46,7 @@
         <div class="sidebar pe-4 pb-3">
             <nav class="navbar bg-secondary navbar-dark">
                 <a href="index.html" class="navbar-brand mx-4 mb-3">
-                    <h6 class="text-primary"><i><img class="rounded-circle me-lg-2" src="img/icon-arc.png" alt="" style="width: 40px; height: 40px;">
+                    <h6 class="text-primary"><i><img src="img/icon-arc.png" alt="" style="width: 40px; height: 40px;">
                     </i>ArchStone Global Ltd</h6>
                 </a>
                 <div class="d-flex align-items-center ms-4 mb-4">
