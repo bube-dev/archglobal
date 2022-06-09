@@ -131,7 +131,7 @@
                             <i class="fa fa-chart-line fa-3x text-primary"></i>
                             <div class="ms-3">
                                 <p class="mb-2">R.O.I</p>
-                                <h6 class="mb-0">$12,000.00</h6>
+                                <h6 class="mb-0">$14,000.00</h6>
                             </div>
                         </div>
                     </div>
@@ -158,7 +158,7 @@
                             <i class="fa fa-chart-pie fa-3x text-primary"></i>
                             <div class="ms-3">
                                 <p class="mb-2">Total Revenue</p>
-                                <h6 class="mb-0">$12,700.00</h6>
+                                <h6 class="mb-0">$14,700.00</h6>
                             </div>
                         </div>
                     </div>
